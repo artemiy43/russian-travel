@@ -1,0 +1,10 @@
+.place__image {
+  width: 98%;
+}
+
+@media (max-width: 450px)
+{
+  .place__image {
+    width: 100%;
+  }
+}
