@@ -15,7 +15,7 @@
 }
 
 .footer__link:hover {
-  opacity: .5;
+  opacity: .8;
 }
 
 @media (max-width: 500px)
@@ -25,5 +25,9 @@
     line-height: 24px;
     margin-right: 0;
     margin-bottom: 32px;
+  }
+
+  .footer__link:nth-of-type(5) {
+    margin-bottom: 0;
   }
 }

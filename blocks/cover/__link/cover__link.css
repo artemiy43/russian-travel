@@ -6,6 +6,7 @@
   padding: 245px 0;
   flex-direction: column;
   background-image: url(../../../images/cover-trains.jpg);
+  background-position: center;
   background-size: 100% 100%;
   z-index: 1;
 }

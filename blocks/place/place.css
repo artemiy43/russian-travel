@@ -7,7 +7,7 @@
   margin-bottom: 80px;
 }
 
-.place:nth-of-type(5) {
+.place:last-of-type {
   margin-bottom: 0;
 }
 
@@ -27,7 +27,7 @@
 }
 
 
-@media (max-width: 450px)
+@media (max-width: 600px)
 {
   .place {
     grid-template-columns: 1fr;
