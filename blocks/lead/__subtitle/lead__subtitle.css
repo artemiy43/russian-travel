@@ -15,7 +15,15 @@
   }
 }
 
-@media (max-width: 320px)
+@media (max-width: 690px)
+{
+  .lead__subtitle{
+    font-size: 20px;
+    line-height: 26px;
+  }
+}
+
+@media (max-width: 450px)
 {
   .lead__subtitle{
     padding-bottom: 40px;
